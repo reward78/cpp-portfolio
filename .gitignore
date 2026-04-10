@@ -1,0 +1,12 @@
+.DS_Store
+build/
+biuld/
+cmake-build-*/
+*.dSYM/
+*.out
+*.o
+*.obj
+*.exe
+*.a
+*.so
+*.dylib
